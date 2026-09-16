@@ -1,2 +1,2 @@
-# moby-game-jam
+# Moby Game Jam
 Eso
